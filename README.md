@@ -2,7 +2,7 @@
 
 ### Computer Science Engineering Student | AI/ML | Software Development
 
-I'm a Computer Science Engineering student at B.N.M. Institute of Technology, interested in building practical AI/ML and software systems.
+I'm a Computer Science Engineering student interested in building practical AI/ML and software systems.
 
 - 🔭 Currently building AI/ML and full-stack projects
 - 🤖 Interested in Machine Learning, Computer Vision, Predictive Analytics and Agentic AI
@@ -107,15 +107,6 @@ A collaborative-agent system for evaluating marine route and operational conditi
 - 🏅 **Top 50 Nationally** — Medha Medithon 2026
 - 🏆 **Best Paper Award** — ICASAM 2025
 - 🥇 **1st Place** — IPL Project Exhibition 2025
-
----
-
-## 🎓 Education
-
-**B.N.M. Institute of Technology, Bengaluru**
-
-Bachelor of Engineering — Computer Science & Engineering  
-2024 – 2028 | **CGPA: 9.96/10**
 
 ---
 
